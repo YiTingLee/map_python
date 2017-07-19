@@ -7,10 +7,10 @@ Use python3, folium and pandas to create a map </br>
  </br>
 Use </br>
   > git clone https://github.com/YiTingLee/map_python.git </br>
-  > cd leaflet_map </br>
+  > cd map_python </br>
   > pip3 install folium </br>
   > pip3 install pandas </br>
-  > python3 map.py </br>
-  > Browser open map.html </br>
+  > python3 map1.py </br>
+  > Map1.html </br>
  </br>
 End
