@@ -1,4 +1,7 @@
 ﻿# map_python
+
+![image](https://github.com/YiTingLee/map_python/blob/master/map_picture.gif)
+
 Use python3, folium and pandas to create a map </br>
 
 1.Python3 </br>
